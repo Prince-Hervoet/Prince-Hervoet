@@ -1,7 +1,7 @@
 ### Hi this is Prince-Hervoet.A greenhand 👋
 - 💬 Ask me about ...
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 <!--
 **Prince-Hervoet/Prince-Hervoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
