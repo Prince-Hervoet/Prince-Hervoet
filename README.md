@@ -1,4 +1,4 @@
-### Hi this is Prince-Hervoet.A greenhand 👋
+### Hi this is Prince-Hervoet -- a primary engineer. 👋
 - 💬 Ask me about ...
 
 ![Prince-Hervoet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince-Hervoet&show_icons=true&bg_color=00000000)
