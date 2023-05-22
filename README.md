@@ -1,7 +1,7 @@
 ### Hi this is Prince-Hervoet -- a primary engineer. 👋
 - 💬 Ask me about ...
 
-![Prince-Hervoet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince-Hervoet&show_icons=true&bg_color=00000000)
+![Prince-Hervoet's GitHub stats]((https://github-readme-stats.vercel.app/api?username=Prince-Hervoet&show_icons=true&bg_color=00000000t)
 <!--
 **Prince-Hervoet/Prince-Hervoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
