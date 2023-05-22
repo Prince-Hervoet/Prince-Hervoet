@@ -1,5 +1,7 @@
 ### Hi this is Prince-Hervoet -- a primary engineer. 👋
 - 💬 Ask me about ...
+![giphy](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/5417ad9d-583b-49f4-add6-ecf91e8f8f4e)
+
 
 <!--
 **Prince-Hervoet/Prince-Hervoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
