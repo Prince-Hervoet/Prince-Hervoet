@@ -1,7 +1,8 @@
 ### Hi this is Prince-Hervoet -- a primary engineer. 👋
 - 💬 Ask me about ...
 
-![6af184ad547a39d281bb76ea5be51f2](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/4d48d837-67b7-4659-be5f-28e6d97aec29)
+![image](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/706a333d-af89-491a-b949-fc4432a75f71)
+
 
 
 
