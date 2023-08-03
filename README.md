@@ -1,6 +1,6 @@
 ### Hi this is Prince-Hervoet -- a primary engineer. 👋
 
-![PrinceHervoet](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/d3af3b38-6eab-46c9-bf4a-11068223b45a)
+![Dream_Background](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/ff73c2c1-02fa-4717-a6e3-5b11064a2c71)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Hervoet&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince-Hervoet&show_icons=true&theme=Gradient)
