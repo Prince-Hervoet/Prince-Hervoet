@@ -4,8 +4,9 @@
 <p></p>
 <img src="https://img.shields.io/badge/any_text-you_like-blue">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Hervoet&layout=pie">
+<img src="https://github-readme-stats.vercel.app/api?username=Prince-Hervoet&show_icons=true&theme=Gradient">
 [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
-![Prince-Hervoet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince-Hervoet&show_icons=true&theme=Gradient)
+![Prince-Hervoet's GitHub stats]()
 
 
 
