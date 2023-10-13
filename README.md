@@ -3,7 +3,7 @@
 ![Dream_Background](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/ff73c2c1-02fa-4717-a6e3-5b11064a2c71)
 <p></p>
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/c++-blue">
+  <img src="https://img.shields.io/badge/c++-coding-blue">
 </div>
 
 <div style="display: flex;">
