@@ -3,10 +3,9 @@
 ![Dream_Background](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/ff73c2c1-02fa-4717-a6e3-5b11064a2c71)
 <p></p>
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Hervoet&layout=pie">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Hervoet&show_icons=true&theme=Gradient">
+  <img src="https://img.shields.io/badge/c++-blue">
 </div>
-<img src="https://img.shields.io/badge/c++-blue">
+
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Hervoet&layout=pie">
   <img src="https://github-readme-stats.vercel.app/api?username=Prince-Hervoet&show_icons=true&theme=Gradient">
