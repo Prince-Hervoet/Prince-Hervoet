@@ -3,7 +3,14 @@
 ![Dream_Background](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/ff73c2c1-02fa-4717-a6e3-5b11064a2c71)
 <p></p>
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/c++-coding-blue">
+  <img src="https://img.shields.io/badge/C++-coding-blue">
+  <img src="https://img.shields.io/badge/java-coding-red">
+  <img src="https://img.shields.io/badge/golang-coding-green">
+  <img src="https://img.shields.io/badge/javascript-coding-yellow">
+  <img src="https://img.shields.io/badge/mysql-coding-blue">
+  <img src="https://img.shields.io/badge/react-coding-green">
+  <img src="https://img.shields.io/badge/C-coding-red">
+  <img src="https://img.shields.io/badge/python-coding-yellow">
 </div>
 
 <div style="display: flex;">
