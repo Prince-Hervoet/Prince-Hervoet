@@ -7,8 +7,10 @@
   <img src="https://img.shields.io/badge/java-coding-red">
   <img src="https://img.shields.io/badge/golang-coding-green">
   <img src="https://img.shields.io/badge/javascript-coding-yellow">
-  <img src="https://img.shields.io/badge/mysql-coding-blue">
+  <img src="https://img.shields.io/badge/mysql-database-blue">
+  <img src="https://img.shields.io/badge/mongodb-database-blue">
   <img src="https://img.shields.io/badge/react-coding-green">
+  <img src="https://img.shields.io/badge/linux-system-blue">
   <img src="https://img.shields.io/badge/C-coding-red">
   <img src="https://img.shields.io/badge/python-coding-yellow">
 </div>
