@@ -1,6 +1,6 @@
 ### Hi this is Prince-Hervoet -- a primary engineer. 👋
+![github_back](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/89c90675-24df-4948-8cb6-6de451c21914)
 
-![默认标题__2023-10-13+18_49_09](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/d1294e75-60f8-4a97-b6a8-77ea70646129)
 <p></p>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/C++-coding-blue">
