@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/C-coding-red">
   <img src="https://img.shields.io/badge/python-coding-yellow">
   <img src="https://img.shields.io/badge/network-system-orange">
+  <img src="https://img.shields.io/badge/assembly-compiler-red">
 </div>
 
 <div style="display: flex;">
