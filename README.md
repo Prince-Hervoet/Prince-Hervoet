@@ -1,5 +1,5 @@
 ### Hi this is Prince-Hervoet -- a primary engineer. 👋
-![github_back](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/89c90675-24df-4948-8cb6-6de451c21914)
+![github_header](https://github.com/Prince-Hervoet/Prince-Hervoet/assets/122962161/ef7be60b-0136-4d78-a1be-16014f0c818b)
 
 <p></p>
 <div style="display: flex;">
